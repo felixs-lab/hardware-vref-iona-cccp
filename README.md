@@ -18,9 +18,9 @@ The autonomous reference voltage source "IONA" has been produced since 1985. It 
 | 06.09.2022 | 8.83115  | AndrzejG - Fluke 8846A                |
 |            | 8.83106  | AndrzejG - Keithley 2000              |
 |            | 8.83104  | AndrzejG - HP 34401A [SN: US36067486] |
-| 18.02.2023 | 8.83107  | AndrzejG - AVG from 4: Fluke 8846A, Keithley 2000, HP 34401A [SN: US36067486] |
-| 06.02.2024 | 8.83100  | AndrzejG - AVG from 4: Fluke 8846A, Keithley 2000, HP 34401A [SN: US36067486] |
-| 10.08.2025 | 8.831044 | AndrzejG - AVG from 3: Fluke 8846A, Keithley 2000 |
+| 18.02.2023 | 8.83107  | AndrzejG - AVG from 4: Fluke 8846A, Keithley 2000, Fluke 8505A ,HP 34401A [SN: US36067486] |
+| 06.02.2024 | 8.83100  | AndrzejG - AVG from 4: Fluke 8846A, Keithley 2000, Fluke 8505A, HP 34401A [SN: US36067486] |
+| 10.08.2025 | 8.831044 | AndrzejG - AVG from 3: Fluke 8846A, Keithley 2000, Fluke 8505A |
 | 31.08.2025 | 8.831045 | felixd   - AVG from 4 34401A DMMS: [AGILENT 34401A MY45037309, AGILENT 34401A US36109397, HP 34401A US36067486, HP 34401A FLAMEIT001] |
 
 ### 31.08.2025
